@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1587890549 source:d:\programs language\labs sem 2\Лаба3Вариант4\book.cpp
+	"book.h"
+
+1587890549 source:d:\programs language\labs sem 2\Лаба3Вариант4\magazine.cpp
+	"magazine.h"
+
+1587890549 source:d:\programs language\labs sem 2\Лаба3Вариант4\newspaper.cpp
+	"Newspaper.h"
+
+1587885371 source:d:\programs language\labs sem 2\Лаба3Вариант4\publication.cpp
+	"publication.h"
+
+1587890480 source:d:\programs language\labs sem 2\Лаба3Вариант4\main.cpp
+	<iostream>
+	<string>
+	"publication.h"
+	"newspaper.h"
+	"book.h"
+	"magazine.h"
+
+1587885371 d:\programs language\labs sem 2\Лаба3Вариант4\publication.h
+	<string>
+
+1587889889 d:\programs language\labs sem 2\Лаба3Вариант4\newspaper.h
+	<string>
+	<iostream>
+	"publication.h"
+
+1587888983 d:\programs language\labs sem 2\Лаба3Вариант4\book.h
+	<string>
+	<iostream>
+	"publication.h"
+
+1587888848 d:\programs language\labs sem 2\Лаба3Вариант4\magazine.h
+	<string>
+	<iostream>
+	"publication.h"
+
+1587890549 source:c:\users\batya\desktop\lab3\book.cpp
+	"book.h"
+
+1587888983 c:\users\batya\desktop\lab3\book.h
+	<string>
+	<iostream>
+	"publication.h"
+
+1587885371 c:\users\batya\desktop\lab3\publication.h
+	<string>
+
+1587890549 source:c:\users\batya\desktop\lab3\magazine.cpp
+	"magazine.h"
+
+1587888848 c:\users\batya\desktop\lab3\magazine.h
+	<string>
+	<iostream>
+	"publication.h"
+
+1587890588 source:c:\users\batya\desktop\lab3\main.cpp
+	<iostream>
+	<string>
+	"publication.h"
+	"newspaper.h"
+	"book.h"
+	"magazine.h"
+
+1587889889 c:\users\batya\desktop\lab3\newspaper.h
+	<string>
+	<iostream>
+	"publication.h"
+
+1587890549 source:c:\users\batya\desktop\lab3\newspaper.cpp
+	"Newspaper.h"
+
+1587885371 source:c:\users\batya\desktop\lab3\publication.cpp
+	"publication.h"
+
