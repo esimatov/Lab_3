@@ -14,7 +14,7 @@ public:
     Book(Book const &otherBook);
     void setBookAuthor(string const &bookAuthor);
     const string& getBookAuthor() const;
-    bool setBookCountPage(int const bookCountPage);
+    const bool setBookCountPage(int const bookCountPage);
     const int getBookCountPage() const;
 
     void print() const;

@@ -11,7 +11,7 @@ public:
     Magazine();
     Magazine(string const &publicationName, int const publicationYear_of_create, int const magazinIssue);
     Magazine(Magazine const &magazine);
-    bool setMagazinIssue(int const magazinIssue);
+    const bool setMagazinIssue(int const magazinIssue);
     const unsigned int getMagazinIssue() const;
 
     void print() const;

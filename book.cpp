@@ -25,7 +25,7 @@ const string& Book::getBookAuthor() const
     return bookAuthor;
 }
 
-bool Book::setBookCountPage(int const bookCountPage)
+const bool Book::setBookCountPage(int const bookCountPage)
 {
     if (bookCountPage >= 0)
     {

@@ -13,7 +13,7 @@ Magazine::Magazine(Magazine const &magazine) : Publication (magazine)
     this->setMagazinIssue(magazine.magazinIssue);
 }
 
-bool Magazine::setMagazinIssue(int const magazinIssue)
+const bool Magazine::setMagazinIssue(int const magazinIssue)
 {
     if(magazinIssue > 0)
     {
